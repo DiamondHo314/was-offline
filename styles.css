@@ -1,0 +1,40 @@
+html{
+    background-color: gray;
+}
+#bg-color{
+    background-color: gray;
+}
+#headd{
+    text-align: center;
+    font-family: sans-serif;
+    color: #7b7b7b;
+    background-color: rgb(202 202 202);
+    padding: 15px;
+    border-radius: 3px;
+}
+#grape-div{
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(110 158 135);
+    color: whitesmoke;
+    max-height: 100%;
+    max-width: 100%;
+    display: inline-block;
+    border-radius: 3px;
+}
+#pakistan-gif{
+    padding: 2px 16px;
+    margin: 10px;
+    position: relative;
+    width: 50%;
+    height: auto;
+    right: 10px;
+    float: right;
+    border-radius: 20px;
+}
+.ques{
+   font-size: 26px;
+   line-height: 40px;
+   margin: inherit;
+}
